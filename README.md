@@ -3,8 +3,8 @@
 <br>
 <h1>Tecnologias ultilizadas </h1>
 <br>
--HTML
--CSS
+<p>-HTML</p>
+<p>-CSS</p>
 <br>
                               
 <img src="https://github.com/souzaisabeladev/responsivo-desafio/blob/master/ft%20projeto%20responsivo.jpg?raw=true"/>
